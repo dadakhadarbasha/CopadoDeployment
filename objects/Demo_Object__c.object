@@ -173,6 +173,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>New_Filed_Three__c</fullName>
+        <externalId>false</externalId>
+        <label>New Filed Three</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>New_Filed_Two__c</fullName>
         <externalId>false</externalId>
         <label>New Filed Two</label>
